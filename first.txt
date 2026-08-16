@@ -1,1 +1,2 @@
 Changing the features. Changing logic
+Bug fixed by lead
